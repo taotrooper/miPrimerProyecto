@@ -1,4 +1,6 @@
 Java
 C/C++
 PHP
-MySQL/MariaDB
+SQL/MySQL/MariaDB
+JavaScript
+Python
