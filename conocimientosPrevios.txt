@@ -1,1 +1,4 @@
-Java y C/C++
+Java
+C/C++
+PHP
+MySQL/MariaDB
