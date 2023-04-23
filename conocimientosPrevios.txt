@@ -1,0 +1,6 @@
+Java
+C/C++
+PHP
+SQL/MySQL/MariaDB
+JavaScript
+Python

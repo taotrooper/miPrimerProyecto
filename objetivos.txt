@@ -1,0 +1,5 @@
+1. Refrescar, mejorar y modernizar los conocimientos previos en tecnologías en las que ya he trabajado con anterioridad, como son HTML, CSS y JS
+
+2. Aprender tecnologías que aún no conozco bien y que son indispensables para este campo, como lo son Angular o MongoDB, entre otras
+
+3. Familiarizarme con cómo se trabaja en una empresa, cómo trabajar en equipo, cómo testear/debuggear una aplicación web, y cómo conectar la parte frontend y backend en un producto final
